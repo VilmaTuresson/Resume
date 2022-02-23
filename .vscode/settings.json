@@ -25,6 +25,12 @@
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify",
    "cSpell.words": [
-      "Turesson"
-   ]
+      "Påhlmans",
+      "Sellpy",
+      "Turesson",
+      "Vapiano"
+   ],
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   }
 }
